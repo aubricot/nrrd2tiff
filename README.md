@@ -2,7 +2,7 @@
 Convert an .nrrd micro-CT (XRM) dataset to a .tiff stack for upload to MorphoSource    
 *Last updated 17 Nov 2024*
 
-Jupyter Notebook and python3 script to convert an .Nrrd 3D volume file exported from 3D Slicer into a zipped tiff stack for upload to MorphoSource. Script was recently created and is being tested to ensure reliability of outputs when compared with tiff stacks produced in Fiji. If you use this code and encounter any issues with the tiff stacks produced, please open an issue so it can be resolved.
+Jupyter Notebook and python3 script to convert an .Nrrd 3D volume file exported from 3D Slicer into a zipped tiff stack for upload to MorphoSource. This script was recently created and is being tested to ensure reliability of outputs when compared with tiff stacks produced in Fiji. So far, it has been tested with CT data produced by Zeiss Versa Xradia 620. If you use this code and encounter any issues with the tiff stacks produced, please open an issue so it can be resolved.
 
 <p align="center">Demo slice sweep: a stack of 2D tiffs created from a 3D volume of <i>Theobroma cacao</i> (cacao, the source of chocolate).</p> 
 <p align="center">
